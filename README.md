@@ -1,5 +1,7 @@
 # AI Hub
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Protótipo de uma API de chat, parte do [MPPT24OS](https://github.com/mppt24/MPPT24OS). O serviço usa FastAPI e encaminha pedidos para Ollama. A integração com OpenAI é opcional e vem desativada na configuração de origem.
 
 - [Código da API](agent-hub/main.py)
