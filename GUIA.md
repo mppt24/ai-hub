@@ -24,7 +24,7 @@ Os registos do contentor ajudam a separar um erro de arranque de um erro ao liga
 OK · Docker · API local disponível
 ```
 
-Lê pela ordem **resultado**, **etapa** e **detalhe**. Para investigar uma falha, confirma primeiro a data e a versão, depois abre o primeiro passo que falhou.
+Se a verificação em Docker passar, confirma o arranque e a resposta do serviço. Para investigar uma falha, abre a etapa marcada a vermelho. Para confirmar o chat com um modelo, segue a ligação ao Ollama no guia de teste local. [Ver a execução em Docker deste repositório](https://github.com/mppt24/ai-hub/actions/runs/44919943838)
 
 ## Cuidados
 
